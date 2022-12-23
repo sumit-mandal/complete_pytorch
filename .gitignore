@@ -1,0 +1,6 @@
+/data/*
+/cnn_mnist/data/*
+/cnn_mnist/.ipynb_checkpoints/*
+/Resnet/data/*
+/Transfer_learning/hymenoptera_data.zip
+/Transfer_learning/hymenoptera_data/*
